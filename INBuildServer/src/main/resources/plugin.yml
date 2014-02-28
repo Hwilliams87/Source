@@ -1,3 +1,0 @@
-name: INBuildServer
-main: me.stuntguy3000.INBuildServer
-version: ${project.version}
