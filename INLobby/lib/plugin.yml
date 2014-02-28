@@ -1,0 +1,17 @@
+name: INLobby
+version: 1.0
+author: stuntguy3000
+main: me.stuntguy3000.inlobby.INLobby
+depend: [INCore]
+commands:
+    SetSign:
+        description: Set a status sign
+    spawn:
+        description: Go back to spawn
+    makeshop:
+        description: Add a villager shop
+    secret:
+        description: YOU SAW NOTHING...
+    FireFun:
+        description: Fireworks. Nuff said.
+        aliases: [fwfun]

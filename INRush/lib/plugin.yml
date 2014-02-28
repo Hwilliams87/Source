@@ -1,0 +1,12 @@
+name: INRush
+version: 1.0
+author: stuntguy3000
+main: me.stuntguy3000.inrush.INRush
+depend: [INCore]
+commands:
+    map:
+        description: View the current map's name
+    class:
+        description: Choose a class!
+    status:
+        description: View the current game's status
