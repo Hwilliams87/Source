@@ -1,0 +1,10 @@
+name: INFortWars
+version: 1.0
+author: stuntguy3000
+main: me.stuntguy3000.infortwars.INFortWars
+depend: [INCore]
+commands:
+    map:
+        description: View the current map's name
+    status:
+        description: View the current game's status

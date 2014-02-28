@@ -1,0 +1,14 @@
+map1:
+    Zone1:
+        locked: false
+    Zone2:
+        locked: false
+    Zone3:
+        locked: true
+map2:
+    Zone1:
+        locked: false
+    Zone2:
+        locked: false
+    Zone3:
+        locked: true

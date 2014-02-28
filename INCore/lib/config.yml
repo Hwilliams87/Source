@@ -1,0 +1,7 @@
+MySQL:
+    Host: localhost
+    Username: root
+    Password: minecraft
+    Name: bukkit
+    Port: 3306
+        
